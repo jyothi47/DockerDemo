@@ -1,1 +1,3 @@
-# DockerDemo
+# maven-project
+
+Simple Maven Project
