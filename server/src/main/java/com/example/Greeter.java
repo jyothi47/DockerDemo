@@ -1,5 +1,5 @@
 package com.example;
-import java.lang.*;
+
 import java.lang.*;
 /**
  * This is a class.
@@ -16,8 +16,7 @@ public class Greeter {
   //TODO: Add javadoc comment
   public String greet(String someone) {
      System.out.println("Hello");
-     System.out.println("Hello");
-    return String.format("Hello, %s!", someone);
+     return String.format("Hello, %s!", someone);
    
   }
 }
